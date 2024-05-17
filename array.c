@@ -1,4 +1,4 @@
-// Created by Administrator on May 3, 2024
+
 #include "array.h"
 #include <stdio.h>
 #include <stdlib.h>
